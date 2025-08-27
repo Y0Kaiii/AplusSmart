@@ -39,6 +39,10 @@
 
 ## 🚀 วิธีการติดตั้งและใช้งาน (Installation & Setup)
 
+###  Prerequisites (สิ่งที่ต้องมีก่อนติดตั้ง)
+- Python 3.10+
+- PostgreSQL Database Server
+
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/Aprimeplus/AplusSmart.git](https://github.com/Aprimeplus/AplusSmart.git)
